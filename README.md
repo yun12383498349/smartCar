@@ -1,33 +1,1 @@
-# smartCar
-The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
-
-
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
-
-Figure 1. Exterior and interior views of the Smart Car demonstration platform.
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
-
-Figure 2. System architecture of the Smart Car demonstration platform.
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
-
-Figure 3. The Smart Car’s configuration.
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
-
-Figure 4. Layout combination of the transparent windshield display
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
-
-Figure 5. Manipulation of visibility restoration application in the Smart Car. Upper portion:
-driving in conditions with poor visibility; mid portion: turning on the visibility restoration application;
-lower portion: driver’s vision field has been improved after turning on the application.
-
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
-
-Figure 6. Driver performing the nighttime contrast enhancement application where the
-driver’svision field is increased. Upper and lower portions represent the driver’s vision field
-before and after using the application.
-
+﻿# smartCarA SmartCar is a vehicle that utilizes artificial intelligence (AI), advanced electronic components, and communication technologies to achieve "smart" car functions. Many companies in the market have successfully produced SmartCars integrated with artificial intelligence (AI). It is believed that in the future, through further research and development, more advanced features and higher levels of safety can be achieved in SmartCars.Advantages of Smart Cars：1.Autonomous driving and sensing technology can reduce traffic accidents, improving safety for drivers and pedestrians.2.Smart cars can manage traffic flow more efficiently, reducing congestion and saving time.3.c Offering autonomous driving features that allow drivers to relax or multitask, making travel more convenient.4.Smart cars can improve fuel efficiency, reduce fuel expenses, and lower vehicle maintenance costs.5.As technology continues to advance, smart cars' capabilities will increase, potentially bringing more convenience and advantages in the future.
